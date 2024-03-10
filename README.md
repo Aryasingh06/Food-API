@@ -1,2 +1,2 @@
-# Food-API
-food Api using Express JS for managing food and nutrition data.
+# FOOD-API-using-Express.js-for-managing-food-and-nutrition-data.
+API using Express.js for managing food and nutrition data. Implementing endpoints to save data in a database using Postman and retrieve data using Express.
